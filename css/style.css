@@ -1,0 +1,26 @@
+h1{border:10px;
+	margin:10px;
+	color:green;
+	text-align:center;
+
+}
+img{display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+body{background-color:gray;}
+
+p{text-align:center;
+
+}
+.solid{
+	text-align:center;
+	border:solid;5px; 
+}
+#dotted{
+	text-align:center;
+	border:dotted;5px 
+}
+.head1{
+	text-align:center;
+}
